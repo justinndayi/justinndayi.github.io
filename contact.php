@@ -12,7 +12,7 @@
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-
+      
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-villa-agency.css">
@@ -35,7 +35,7 @@ https://templatemo.com/tm-591-villa-agency
     <div class="preloader-inner">
       <span class="dot"></span>
       <div class="dots">
-        <span></span>
+        <span>Justin</span>
         <span></span>
         <span></span>
       </div>
